@@ -1,1 +1,1 @@
-File 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
+File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/ directory.
