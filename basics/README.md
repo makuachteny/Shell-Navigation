@@ -1,1 +1,1 @@
-File 8-firstdelete deletes he file betty.
+File 9-firstdirdeletion deletes the directory my_first_directory that is in the /he /tmp directory
