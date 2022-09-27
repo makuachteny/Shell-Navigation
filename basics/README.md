@@ -1,1 +1,1 @@
-File 2-bring_me_home changes working directory to home directory
+File 3-listfiles displays current directory contents in a long format
