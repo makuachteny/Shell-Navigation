@@ -1,1 +1,1 @@
-File 3-listfiles displays current directory contents in a long format
+File 4-listmorefiles displays current directory contents, including hidden files (starting with .).
