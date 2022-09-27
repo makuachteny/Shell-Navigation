@@ -1,1 +1,1 @@
-File 7-movethatfile moves the file betty from /tmp/ to /tmp/holberton.
+File 8-firstdelete deletes he file betty.
