@@ -1,1 +1,1 @@
-File 12-file_type writes a script that prints the type of the file named iamafile.
+File 13-symbolic_link creates a symbolic link to /bin/ls, named ls.
