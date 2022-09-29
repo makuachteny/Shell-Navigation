@@ -1,1 +1,1 @@
-File 14-change_owner_and_group writes a script that changes the owner to vincent and group owner to staff for all the files and directories in the working directories
+File 15-symbolic_link_permissions writes a script that changes the owner and the group owner of _hello to vincent and staff respectively
