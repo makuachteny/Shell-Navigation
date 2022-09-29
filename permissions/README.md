@@ -1,1 +1,1 @@
-File 8-James_Bond writes a script that sets the permissions to the file hello as, Owner: no permission at all;Group: no permission at all; and Other users: all the permissions
+File 9-John_Doe writes a script that sets the mode of the file hello to -rwxr-x-wx
