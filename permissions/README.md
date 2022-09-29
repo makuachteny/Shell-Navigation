@@ -1,1 +1,1 @@
-File 3-new_owner writes a script that changes the owner of the file hello to the user betty
+File 4-empty writes a script that creates an empty file called hello
