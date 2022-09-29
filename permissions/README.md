@@ -1,1 +1,1 @@
-File 9-John_Doe writes a script that sets the mode of the file hello to -rwxr-x-wx
+File 10-mirror_permissions writes a script that sets the mode of file hello the same as the olleh's mode
