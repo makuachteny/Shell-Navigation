@@ -1,1 +1,1 @@
-File 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files
+File 6-third_line is a script that displays the third line of the file iacta
