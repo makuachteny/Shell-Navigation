@@ -1,1 +1,1 @@
-File 4-lastlines displays the last 10 lines of /etc/passwd
+File 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files
