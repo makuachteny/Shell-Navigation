@@ -1,1 +1,1 @@
-File 13-unique is a script that takes a list of words as input and prints only words that appear exactly once
+File 14-findthatword displays lines containing the pattern “root” from the file /etc/passwd
