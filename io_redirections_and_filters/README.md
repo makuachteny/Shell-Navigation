@@ -1,1 +1,1 @@
-File 7-file is a script that creates a file named exactly *\'Holberton School'\*130*****:) containing the text Holberton School ending by a new line
+File 8-cwd_state is a script that writes into the file ls_cwd_content the result of the command ls -la
