@@ -1,1 +1,1 @@
-File 8-true_knowledge writes a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
+File 9-divide_and_rule writes a script that prints the result of POWER divided by DIVIDE, followed by a new line
