@@ -1,1 +1,1 @@
-File 4-global_variables creates a script that lists the environment variables
+File 5-local_variables added to shell-init_files_variables_and_expansions
