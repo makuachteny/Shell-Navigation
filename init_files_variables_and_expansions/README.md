@@ -1,1 +1,1 @@
-File 3-path creates a script that counts the number of directories in the PATH
+File 4-global_variables creates a script that lists the environment variables
