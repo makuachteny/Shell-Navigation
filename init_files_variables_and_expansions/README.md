@@ -1,1 +1,1 @@
-File 14-decimal_to_hexadecimal writes a script that converts a number from base 10 to base 16
+File 15-rot13 writes a script that encodes and decodes text using the rot13 encryption. Assume ASCII
