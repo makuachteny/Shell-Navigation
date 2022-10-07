@@ -1,1 +1,1 @@
-File 5-local_variables added to shell-init_files_variables_and_expansions
+File 7-create_global_variable creates a script that creates a new global variable names BEST and value School
