@@ -1,1 +1,1 @@
- File 8-for_ls writes a Bah script that displays the content of the current directory, in a list format and where only the part of the name after the first dash is displayed (refer to the example)
+File 9-to_file_or_not_to_file writes a Bash script that gives you information about the school file
