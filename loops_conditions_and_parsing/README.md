@@ -1,1 +1,1 @@
-File 5-4_bad_luck_8_is_your_chance writes a Bash script that loops from 1 to 10 and:displays bad luck for the 4th loop iteration,displays good luck for the 8th loop iteration and displays Best School for the other iterations
+File 6-superstitious_numbers writes a bash script that displays numbers from 1-20 but diplay '4 then bad luck from china' for the 4th iteration,display '9 and then bad luck from japan' for the 9th iteration & display '17 then bad luck from Italy' for the 17th iteration'
