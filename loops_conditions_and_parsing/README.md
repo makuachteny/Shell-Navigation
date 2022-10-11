@@ -1,1 +1,1 @@
-File 10-fizzbuzz writes a script that displays numbers from 1 to 100; displays FizzBuzz when the number is a multiple of 3 and 5, Displays Fizz when the number is multiple of 3 and Displays Buzz when the number is a multiple of 5
+File 11-read_and_cut writes a Bash script that displays the content of the file /etc/passwd and the script should display the username, user id and Home directory path for the user 
