@@ -1,1 +1,1 @@
-File 6-superstitious_numbers writes a bash script that displays numbers from 1-20 but diplay '4 then bad luck from china' for the 4th iteration,display '9 and then bad luck from japan' for the 9th iteration & display '17 then bad luck from Italy' for the 17th iteration'
+File 7-clock writes a Bash script that displays the time for 12 hours and 59 minutes: Displays hours from 0 to 12 and minutes from 1 to 59
