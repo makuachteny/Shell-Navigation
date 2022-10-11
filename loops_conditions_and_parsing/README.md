@@ -1,1 +1,1 @@
-File 7-clock writes a Bash script that displays the time for 12 hours and 59 minutes: Displays hours from 0 to 12 and minutes from 1 to 59
+ File 8-for_ls writes a Bah script that displays the content of the current directory, in a list format and where only the part of the name after the first dash is displayed (refer to the example)
