@@ -1,1 +1,1 @@
-File 7-highlander writes a Bash script that displays, To infinity and beyondindefinitely, with a sleep 2 in between each iteration and I am invisible when recieving a SIGTERM signal
+File 8-beheaded_process writes a Bash script that kills the process highlander
