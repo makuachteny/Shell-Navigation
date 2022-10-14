@@ -1,1 +1,1 @@
-File 6-stop_me_if_you_can writes a Bash script that stops 4-to_infinity_and_beyond process and you cannot kill or killall
+File 7-highlander writes a Bash script that displays, To infinity and beyondindefinitely, with a sleep 2 in between each iteration and I am invisible when recieving a SIGTERM signal
