@@ -1,1 +1,1 @@
-File 1-list_your_processes writes a Bash script that displays a list of currently running processes and must show all processes for all users inclusing those which might not have a TTY and displayed in a user oriented format
+File 2-show_your_bash_pid writes a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process
